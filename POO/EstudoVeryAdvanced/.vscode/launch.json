@@ -1,0 +1,49 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Teste",
+            "request": "launch",
+            "mainClass": "Sobreescrita.ModificadorFinal.Cliente.ClassesAbstratas.Teste",
+            "projectName": "EstudoVeryAdvanced_ac2a5d4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pricip",
+            "request": "launch",
+            "mainClass": "Pricip",
+            "projectName": "EstudoVeryAdvanced_ac2a5d4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch AnimeTeste01",
+            "request": "launch",
+            "mainClass": "Sobreescrita.AnimeTeste01",
+            "projectName": "EstudoVeryAdvanced_ac2a5d4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch CarroTeste01",
+            "request": "launch",
+            "mainClass": "Sobreescrita.ModificadorFinal.CarroTeste01",
+            "projectName": "EstudoVeryAdvanced_ac2a5d4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClienteTeste01",
+            "request": "launch",
+            "mainClass": "Sobreescrita.ModificadorFinal.Cliente.ClienteTeste01",
+            "projectName": "EstudoVeryAdvanced_ac2a5d4f"
+        }
+    ]
+}
