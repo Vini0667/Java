@@ -31,6 +31,7 @@ public class LoginIvalidoException extends Exception {
 
     public static void logar () throws LoginIvalidoException {
         Scanner teclado = new Scanner (System.in);
+
         String userNameBd = "Goku";
         String senhaBd = "SSJ";
 
